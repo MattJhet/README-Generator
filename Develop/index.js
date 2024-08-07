@@ -5,7 +5,7 @@ const questions = [];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
-fs.appendFile('log.txt', `${data}\n`, (err) =>
+fs.appendFile('README.md', `${data}\n`, (err) =>
     err ? console.error(err) : console.log('Commit logged!'));
     
 // TODO: Create a function to initialize app
