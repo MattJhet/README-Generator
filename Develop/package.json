@@ -1,14 +1,21 @@
 {
-  "name": "static-site",
+  "name": "testreadme",
   "version": "1.0.0",
-  "description": "",
+  "description": "testing code",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "me",
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "developer"
+  },
+  "keywords": [
+    "pie"
+  ]
 }
