@@ -2,7 +2,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 // TODO: Create an array of questions for user input
-const questions = [];
+// const questions = [];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
@@ -21,11 +21,11 @@ const generateREADME = ({name, usage, installation, issue, contributions, github
     ${issue}
     ##How to make contributions
     ${contributions}
-    
+
     Github profile ${githubProfile}
     demo ${demo}
 
-    Licensed with ${license}
+    Licensed with [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 `
 
