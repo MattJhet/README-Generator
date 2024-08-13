@@ -24,8 +24,8 @@ const generateREADME = ({name, usage, installation, issue, contributions, github
 
     Github profile ${githubProfile}
     demo ${demo}
-
-    Licensed with [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    
+    Licensed with ${license} [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 `
 
