@@ -1,33 +1,18 @@
 
-    #The app is for Readme generator
-    ##How to use the app
-    command line
-    ##How to install it
-    command line
-    ##How to report issues
-    type them out
-    ##How to make contributions
-    write functinos
-    Github profile me
-    demo me
-    Licensed with me
-    
-
-
-    #The app is for Readme generator
+    #The app is for readme generator
 
     ##How to use the app
-    use node (file name to run) inside of terminal then answer questions
+    enter file name in terminal
     ##How to install it
-    download the files 
+    have the readme generator file
     ##How to report issues
-    create a github issue
+    make a issue in github
     ##How to make contributions
-    have a better way to make a readme file
+    have a better way to make a readme
 
     Github profile https://github.com/MattJhet
-    demo making that right now
-
-    Licensed with [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+        demo this video [!(./assets/2024-08-13 19-06-25.mkv)]
+    
+    Licensed with MIT  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 
